@@ -1,6 +1,6 @@
-## ETAPA 1 DO CURSO - FUNDAMENTOS DO REACT
+### ETAPA 1 DO CURSO - FUNDAMENTOS DO REACT
 
-## NOME DO CURSO: React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!
+### NOME DO CURSO: React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!
 
 
 Na segunda etapa desenvolvemos uma "Calculadora", foi o primeiro projeto completo trabalhando com React.
