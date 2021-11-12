@@ -1,4 +1,4 @@
-## ETAPA 2 DO CURSO - PROJETO CALCULADORA
+## ETAPA 2 - PROJETO CALCULADORA
 
 ### NOME DO CURSO: React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!
 
